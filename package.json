@@ -1,7 +1,7 @@
 {
-  "name": "ejercicio1-strings-js",
+  "name": "c2-ejercicio-1-strings",
   "version": "1.0.0",
-  "description": "Mi primer proyecto JS",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/glopezh/c2-ejercicio-1-strings.git"
   },
-  "author": "Geraldine López",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/glopezh/c2-ejercicio-1-strings/issues"
@@ -21,6 +22,11 @@
     "bootstrap": "^5.0.1"
   },
   "devDependencies": {
-    "eslint": "^7.27.0"
+    "eslint": "^7.27.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
   }
 }
