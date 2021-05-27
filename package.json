@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio1-strings-js",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glopezh/c2-ejercicio-1-strings.git"
+  },
+  "author": "Geraldine López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glopezh/c2-ejercicio-1-strings/issues"
+  },
+  "homepage": "https://github.com/glopezh/c2-ejercicio-1-strings#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
